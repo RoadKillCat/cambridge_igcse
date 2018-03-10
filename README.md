@@ -4,7 +4,7 @@ This repository is aimed at collating work related to [the course](http://www.ca
 For example, I hope to write solutions to the pre release in a couple of different languages to develop my understanding of the task.
 What we are expected to learn as part of this course is outlined in [the specification](http://www.cambridgeinternational.org/images/203951-2017-2019-syllabus.pdf).
 
-An important quote from the spec, is the following - concerning Paper 2.
+An important quote from the spec - concerning Paper 2.
 
 >There is some examining of knowledge with understanding, but most of the credit is for using
 techniques and skills to solve problems. The examination questions require candidates to have
