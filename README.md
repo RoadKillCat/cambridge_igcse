@@ -11,3 +11,9 @@ techniques and skills to solve problems. The examination questions require candi
 practical programming experience, including writing their own programs, executing (running), testing
 and debugging them. **Knowledge of programming language syntax is not examined; in all cases the
 logic is more important than the syntax.**
+
+---
+
+The Pre-release for 2018 is seen below.
+
+![pre release](pre_release.jpg)
